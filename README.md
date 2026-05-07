@@ -1,2 +1,2 @@
 # get
-AUR helper in BASH(?)
+AUR helper in BASH
